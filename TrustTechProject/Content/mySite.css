@@ -1,0 +1,49 @@
+﻿
+
+
+h1.myFirst {
+    font-size: 2em;
+    text-align:center;
+    color:red;
+}
+
+.myGridDiv
+{
+    text-align:center;
+}
+
+.myGrid
+{
+     align-items:center;
+}
+
+.myGridHead
+{
+    width:200px;
+    text-align:center;
+}
+
+.companyAddrss
+{
+ text-align:center;
+}
+
+.searchCN
+{
+    background-color:gray;
+    position:absolute;
+    margin-bottom:5px;
+    margin-left:0px;
+
+}
+
+.txtsearchCN
+{
+    position:absolute;
+    top: -40px;
+    left: -438px;
+}
+.btnSearchCN
+{
+
+}
